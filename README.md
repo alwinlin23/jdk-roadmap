@@ -1,2 +1,2 @@
-# sun-jdk-roadmap
-new features in each sun jdk version
+# jdk-roadmap
+new features in each jdk and every released main version
